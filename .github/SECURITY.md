@@ -2,12 +2,16 @@
 
 Are there broken links?
 
-- [] Yes
-- [] No
+| Response | Use this           |
+| -------- | ------------------ |
+| Yes?     | :white_check_mark: |
+| No?      | :x:                |
 
 Do you think something in the repository needs an improvement?
 
-- [] Yes
-- [] No
+| Response | Use this           |
+| -------- | ------------------ |
+| Yes?     | :white_check_mark: |
+| No?      | :x:                |
 
 Reach out to [somraj.mle@gmail.com](mailto:somraj.mle@gmail.com) with your concerns. If you want to ask specific questions please check the [README](../README.md)
