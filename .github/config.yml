@@ -1,0 +1,13 @@
+requestInfoReplyComment: >
+  I appreciate it if you could provide me with more info about the question in the description :)
+
+requestInfoLabelToAdd: needs-more-info
+
+checkIssueTemplate: true
+
+requestInfoOn:
+  pullRequest: false
+  issue: true
+
+requestInfoUserstoExclude:
+  - jarmos-san
