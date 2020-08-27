@@ -1,0 +1,15 @@
+daysUntilStale: 10
+
+daysUntilClose: 7
+
+exemptLabels:
+  - pinned
+  - security
+
+staleLabel: noresponse
+
+markComment: >
+  This issue has been automatically marked as stale because it has not had recent activity. It will be closed if no further activity occurs. Thank you for asking your question.
+  
+closeComment: >
+  The thread has been marked stale for a while now & hasn't seen any activity. Thus, it'll be closed now, if you've some more questions, please reopen the thread.
