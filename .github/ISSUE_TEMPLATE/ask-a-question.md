@@ -7,9 +7,4 @@ assignees: Jarmos-san
 
 ---
 
-# Has your question been asked & answered earlier
-
-- [] Yes
-- [] No
-
-### Drop a comprehensive detail related to your question below, *if any* (**remove this line though**)
+Remove everything in this section before writing a description. But please ensure if your question been asked & answered earlier
